@@ -1,4 +1,4 @@
-## libraries ----
+## Libraries ----
 
 using CairoMakie
 using DataFrames
