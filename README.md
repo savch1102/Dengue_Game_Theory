@@ -11,7 +11,7 @@ This work investigates:
 + Changes in the dynamical regime (monotonic vs damped-oscillatory return to equilibrium) driven by vector awareness.
 + Interaction of behavioral feedbacks with contrasting seasonal temperature regimes (bimodal Andean vs unimodal Southeast-Asian).
 
-The manuscript contributes to the understanding of when voluntary, awareness-driven prevention can persist between outbreaks, why it tends to plateau short of elimination, and how risk communication focused on vector ecology—and timed to local seasonality—may support community control more effectively than case-based messaging alone. Results are theoretical and should be read as qualitative properties of the coupled system rather than calibrated predictions.
+The manuscript contributes to the understanding of when voluntary, awareness-driven prevention can persist between outbreaks, why it tends to plateau short of elimination, and how risk communication focused on vector ecology, and timed to local seasonality, may support community control more effectively than case-based messaging alone. Results are theoretical and should be read as qualitative properties of the coupled system rather than calibrated predictions.
 
 ## Repository contents
 
